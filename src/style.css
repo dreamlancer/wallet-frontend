@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "MuliBold";
+    src: url("./assets/fonts/Muli-Bold.ttf");
+}
+
+@font-face {
+    font-family: "NotoSans";
+    src: url("./assets/fonts/NotoSans-Regular.ttf");
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: "NotoSans", serif;
+}
+
